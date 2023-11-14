@@ -1,0 +1,5 @@
+/node_modules
+/CICD
+
+.env
+.env.example
